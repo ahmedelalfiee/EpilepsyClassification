@@ -2,7 +2,7 @@
 This project trains various classifiers and compare between their accuracies to detect mild epileptic from severe epileptic patients.
 
 # Dataset
-Our dataset contain 500 Epilepsy patients with 4095 channels of their EEG signal. Which ranged from class 1 to 5 according totheir severity of epilepsy level. We will focus only on class 3 and class 4 (mild and severe epilepsy).
+Our dataset EEG-data contains 500 Epilepsy patients with 4095 channels of their EEG signal. Which ranged from class 1 to 5 according totheir severity of epilepsy level. We will focus only on class 3 and class 4 (mild and severe epilepsy).
 
 # Methodologies 
 ## Extracting features
@@ -20,3 +20,6 @@ The following table contains each classifier and its corresponding accuracy, sen
 
 ## Conclusion
 Random Forest (Ensemble) is the most accuracte classifier in terms of the previously mentioned metrics.
+
+## Notes
+You can check the full presentation of the project in EpilepsyPresentation.pdf
