@@ -1,5 +1,6 @@
-
-https://github.com/user-attachments/assets/f446a5dd-feaf-4833-9643-4dc1a47917da
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f446a5dd-feaf-4833-9643-4dc1a47917da" width="600" />
+</p>
 
 ## Problem
 This project trains various classifiers and compare between their accuracies to detect mild epileptic from severe epileptic patients.
