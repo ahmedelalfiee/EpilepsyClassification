@@ -1,10 +1,13 @@
-# Problem
+
+https://github.com/user-attachments/assets/f446a5dd-feaf-4833-9643-4dc1a47917da
+
+## Problem
 This project trains various classifiers and compare between their accuracies to detect mild epileptic from severe epileptic patients.
 
-# Dataset
+## Dataset
 Our dataset EEG-data contains 500 Epilepsy patients with 4095 channels of their EEG signal. Which ranged from class 1 to 5 according totheir severity of epilepsy level. We will focus only on class 3 and class 4 (mild and severe epilepsy).
 
-# Methodologies 
+## Methodologies 
 ## Extracting features
 We will use the psd (power spectral density) to know how is the power is distributed across different frequency band). The following image describes the different frequency bands:
 
